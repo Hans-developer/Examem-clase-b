@@ -4,21 +4,27 @@ import sqlite3
 
 st.set_page_config(page_title="Examen Clase B", layout="centered")
 
+# Función para inicializar la BD desde el CSV
 def init_db():
     conn = sqlite3.connect('test_clase_b.db')
+    # Leer el CSV grande
     df = pd.read_csv('preguntas.csv')
     df.to_sql('preguntas', conn, if_exists='replace', index=False)
     conn.close()
 
+# Obtener 35 preguntas únicas de la BD
 def get_test_unico():
     conn = sqlite3.connect('test_clase_b.db')
-    df_full = pd.read_sql('SELECT * FROM preguntas', conn)
+    # SELECT * FROM preguntas ORDER BY RANDOM() LIMIT 35 es más eficiente que cargar todo el CSV
+    query = "SELECT * FROM preguntas ORDER BY RANDOM() LIMIT 35"
+    df = pd.read_sql(query, conn)
     conn.close()
-    return df_full.sample(n=min(35, len(df_full)), replace=False).reset_index(drop=True)
+    return df
 
 st.title("🎓 Simulador Examen Clase B")
 
 if 'iniciado' not in st.session_state:
+    st.write(f"Banco de preguntas cargado. Presiona para generar tu examen aleatorio.")
     if st.button("Iniciar Nuevo Examen"):
         init_db()
         st.session_state.iniciado = True
@@ -38,20 +44,14 @@ else:
         errores = []
         
         for i, row in st.session_state.preguntas.iterrows():
-            # Mapeo: la columna 'correcta' contiene el número 1, 2 o 3
             idx_correcta = int(row['correcta']) - 1 
             opciones = [row['opcion_1'], row['opcion_2'], row['opcion_3']]
-            respuesta_correcta_texto = opciones[idx_correcta]
+            correcta_texto = opciones[idx_correcta]
             
-            if st.session_state.respuestas[i] == respuesta_correcta_texto:
+            if st.session_state.respuestas[i] == correcta_texto:
                 correctas += 1
             else:
-                errores.append({
-                    'p': row['pregunta'], 
-                    'r': st.session_state.respuestas[i], 
-                    'c': respuesta_correcta_texto, 
-                    'e': row['explicacion']
-                })
+                errores.append({'p': row['pregunta'], 'r': st.session_state.respuestas[i], 'c': correcta_texto, 'e': row['explicacion']})
 
         st.divider()
         if correctas >= 33:
