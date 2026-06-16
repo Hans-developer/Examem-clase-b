@@ -1,0 +1,105 @@
+pregunta,opcion_1,opcion_2,opcion_3,correcta,explicacion
+¿Cuál es la velocidad máxima en zona urbana?,40 km/h,50 km/h,60 km/h,2,La velocidad máxima permitida en zonas urbanas es 50 km/h salvo señalización distinta.
+¿Qué indica una señal de color amarillo?,Información,Obligación,Advertencia de peligro,3,Las señales amarillas advierten riesgos o peligros en la vía.
+¿A qué distancia se debe mantener con el vehículo de adelante?,A 2 metros,A una distancia que permita reaccionar,A 10 metros,2,La distancia debe permitir detenerse con seguridad.
+¿Qué debe hacer si el semáforo cambia a amarillo?,Acelerar para cruzar,Detenerse,Continuar igual,2,La luz amarilla exige detenerse si puede hacerse con seguridad.
+¿Qué significa una señal octogonal roja?,Ceda el paso,Pare,No estacionar,2,La señal octogonal roja corresponde a Pare.
+¿Quién tiene prioridad en un paso peatonal?,Los vehículos,Los peatones,Las bicicletas,2,Los peatones tienen prioridad en los cruces habilitados.
+¿Qué documento acredita la autorización para conducir?,Permiso de circulación,Licencia de conducir,SOAP,2,La licencia acredita la autorización legal para conducir.
+¿Qué debe hacer antes de cambiar de pista?,Acelerar,Señalizar y verificar espejos,Mantener velocidad,2,Siempre debe señalizar y verificar que sea seguro.
+¿Qué significa una luz roja del semáforo?,Precaución,Detención obligatoria,Libre tránsito,2,La luz roja obliga a detenerse.
+¿Cuál es el efecto principal del alcohol al conducir?,Mejora reflejos,Disminuye capacidades,Aumenta concentración,2,El alcohol afecta percepción y tiempo de reacción.
+¿Qué elemento es obligatorio para todos los ocupantes?,Guantes,Cinturón de seguridad,Gorro reflectante,2,El cinturón es obligatorio para todos los ocupantes.
+¿Qué debe hacer al acercarse a un cruce ferroviario?,Aumentar velocidad,Reducir velocidad y observar,Tocar bocina continuamente,2,Debe verificar que no se aproxime un tren.
+¿Cuál es la función del sistema ABS?,Reducir consumo,Evitar bloqueo de ruedas,Aumentar potencia,2,Permite mantener control durante frenadas fuertes.
+¿Qué indica una línea continua en la calzada?,Puede adelantar,No debe cruzarse,Estacionar permitido,2,La línea continua restringe el cambio de pista o adelantamiento.
+¿Qué debe hacer ante una señal Pare?,Reducir velocidad solamente,Detenerse completamente,Tocar bocina,2,La detención debe ser total.
+¿Qué significa la conducción defensiva?,Conducir rápido,Anticiparse a riesgos,Conducir solo de día,2,Busca prevenir accidentes anticipando peligros.
+¿Qué debe revisar antes de iniciar un viaje?,Solo combustible,Estado general del vehículo,Solo neumáticos delanteros,2,La revisión completa mejora la seguridad.
+¿Cuál es la distancia mínima recomendada en condiciones normales?,Regla de 3 segundos,1 segundo,No importa,1,La regla de los 3 segundos ayuda a mantener una distancia segura.
+¿Qué indica una señal triangular con borde rojo?,Información,Advertencia de peligro,Estacionamiento,2,Las señales triangulares advierten peligros.
+¿Qué debe hacer si escucha una sirena de emergencia?,Ignorarla,Ceder el paso,Acelerar,2,Debe facilitar el paso de vehículos de emergencia.
+¿Cuándo es obligatorio encender luces?,Solo de noche,Cuando la visibilidad lo requiera,Nunca de día,2,Las luces deben usarse según condiciones de visibilidad.
+¿Qué provoca el uso del celular al conducir?,Mayor atención,Distracción significativa,Mejor coordinación,2,El celular aumenta el riesgo de accidentes.
+¿Qué significa una línea segmentada?,Prohibición absoluta,Puede cruzarse con precaución,No puede adelantarse,2,Permite maniobras seguras cuando las condiciones lo permiten.
+¿Qué hacer ante un peatón que cruza inesperadamente?,Acelerar,Frenar y evitar riesgo,Tocar bocina únicamente,2,Debe protegerse la integridad del peatón.
+¿Cuál es el objetivo del cinturón de seguridad?,Comodidad,Reducir lesiones,Evitar multas solamente,2,Reduce lesiones y riesgo de muerte.
+¿Qué debe hacer al salir de un estacionamiento?,Incorporarse sin mirar,Ceder el paso y observar,Acelerar inmediatamente,2,Debe asegurarse de no interferir con otros usuarios.
+¿Qué indica una luz verde?,Detención obligatoria,Puede avanzar si es seguro,Retroceder,2,La luz verde permite avanzar respetando condiciones del tránsito.
+¿Qué se entiende por punto ciego?,Zona visible,Zona no visible en espejos,Parte trasera del vehículo,2,Son áreas que no se observan directamente.
+¿Qué hacer si un neumático revienta?,Frenar bruscamente,Sujetar el volante y reducir velocidad,Acelerar,2,Se debe mantener el control del vehículo.
+¿Qué debe hacer antes de adelantar?,Señalizar y verificar condiciones,Cambiar pista sin aviso,Acelerar inmediatamente,1,Debe asegurarse de que la maniobra sea segura.
+¿Qué indica una señal de Ceda el Paso?,Detenerse siempre,Ceder prioridad,Continuar sin observar,2,Debe dar prioridad a quienes circulan por la vía preferente.
+¿Cuál es la principal causa de accidentes?,Exceso de atención,Error humano,Color del vehículo,2,La mayoría de los accidentes involucran errores humanos.
+¿Qué debe hacer con lluvia intensa?,Aumentar velocidad,Reducir velocidad y aumentar distancia,Usar bocina constantemente,2,La adherencia disminuye con la lluvia.
+¿Qué significa aquaplaning?,Mayor adherencia,Pérdida de contacto con la calzada,Aumento de frenado,2,El neumático flota sobre una capa de agua.
+¿Qué documento debe portar el conductor?,Solo licencia,Licencia y documentación obligatoria,Ninguno,2,Debe portar la documentación exigida por ley.
+¿Qué debe hacer en una curva?,Frenar dentro de ella,Reducir velocidad antes de entrar,Acelerar al ingresar,2,La velocidad debe ajustarse antes de la curva.
+¿Qué indica una señal azul?,Advertencia,Peligro,Información u obligación específica,3,Las señales azules suelen informar u obligar determinadas acciones.
+¿Qué debe hacer al conducir de noche?,Usar luces adecuadas,Apagar luces interiores,Cerrar espejos,1,Las luces permiten ver y ser visto.
+¿Qué efecto tiene la fatiga?,Mejora reflejos,Reduce atención,Incrementa percepción,2,La fatiga afecta la capacidad de reacción.
+¿Qué debe hacer si pierde una salida?,Retroceder,Continuar y buscar otra ruta,Detenerse en la vía,2,Retroceder en vías de tránsito es peligroso.
+¿Qué indica una doble línea continua?,Adelantamiento permitido,Prohibición de cruzar,Estacionar permitido,2,No debe cruzarse en ningún sentido.
+¿Qué debe hacer antes de abrir una puerta?,Abrir rápidamente,Verificar que no venga nadie,Tocar bocina,2,Evita accidentes con ciclistas o vehículos.
+¿Qué significa una flecha pintada en la calzada?,Decoración,Dirección obligatoria o recomendada,Publicidad,2,Orienta el movimiento de los vehículos.
+¿Qué hacer si un vehículo lo adelanta?,Competir en velocidad,Mantener trayectoria segura,Cerrar el paso,2,Debe facilitar una maniobra segura.
+¿Qué debe hacer ante niebla?,Aumentar velocidad,Usar luces apropiadas y reducir velocidad,Encender luces altas siempre,2,La visibilidad reducida exige mayor precaución.
+¿Qué es la distancia de reacción?,Distancia recorrida antes de frenar,Longitud del vehículo,Ancho de pista,1,Corresponde al recorrido mientras el conductor reacciona.
+¿Qué indica una señal de prohibido estacionar?,Puede detenerse libremente,No estacionar,Estacionamiento obligatorio,2,Impide dejar estacionado el vehículo.
+¿Qué hacer al acercarse a una escuela?,Acelerar,Reducir velocidad y extremar atención,Usar luces altas,2,Puede haber niños cruzando inesperadamente.
+¿Qué debe hacer si se aproxima una ambulancia?,Bloquear paso,Ceder el paso,Seguirla de cerca,2,Los vehículos de emergencia tienen prioridad.
+¿Qué significa conducción eficiente?,Consumir más combustible,Reducir consumo y contaminación,Acelerar constantemente,2,Busca optimizar el uso de combustible.
+¿Qué debe revisar en los neumáticos?,Solo color,Presión y desgaste,Marca únicamente,2,Influyen directamente en la seguridad.
+¿Qué debe hacer si el vehículo derrapa?,Girar bruscamente,Mirar hacia donde quiere ir y corregir suavemente,Cerrar los ojos,2,Las correcciones bruscas empeoran la situación.
+¿Qué indica una zona de tránsito calmado?,Mayor velocidad,Velocidad reducida y precaución,Adelantamiento libre,2,Busca proteger usuarios vulnerables.
+¿Qué hacer antes de emprender un viaje largo?,Descansar adecuadamente,Conducir sin pausas,Evitar revisar el vehículo,1,El descanso reduce riesgos por fatiga.
+¿Qué debe hacer en un túnel?,Apagar luces,Encender luces y mantener distancia,Cambiar de pista constantemente,2,La visibilidad y el espacio son limitados.
+¿Qué significa una señal de no adelantar?,Adelantar rápido,Prohibición de adelantamiento,Ceda el paso,2,Restringe la maniobra por razones de seguridad.
+¿Qué debe hacer si ve un ciclista adelante?,Pasar muy cerca,Mantener distancia lateral segura,Tocar bocina continuamente,2,Los ciclistas son usuarios vulnerables.
+¿Qué indica una luz amarilla intermitente?,Detención total,Precaución especial,Libre tránsito,2,Exige avanzar con atención.
+¿Qué hacer al conducir bajo lluvia?,Reducir velocidad,Aumentar velocidad,Mantener distancia mínima,1,La calzada mojada reduce adherencia.
+¿Qué es el tiempo de reacción?,Tiempo entre percibir y actuar,Duración del viaje,Tiempo de estacionamiento,1,Influye directamente en la distancia de detención.
+¿Qué debe hacer en una rotonda?,Entrar sin observar,Ceder a quienes circulan dentro,Detenerse en el centro,2,Generalmente tiene prioridad quien ya circula en ella.
+¿Qué indica una señal de hospital?,Zona industrial,Precaución por posible cruce o silencio,Estacionamiento libre,2,Debe conducir con especial consideración.
+¿Qué debe hacer si está somnoliento?,Continuar manejando,Detenerse y descansar,Tomar más velocidad,2,La somnolencia aumenta el riesgo de accidente.
+¿Qué significa una señal de velocidad máxima?,Velocidad mínima,No superar el valor indicado,Velocidad sugerida,2,Establece un límite legal.
+¿Qué hacer ante una inundación en la vía?,Cruzar rápidamente,Evaluar riesgo y evitarla si es profunda,Acelerar al máximo,2,El agua puede afectar control y motor.
+¿Qué debe hacer con los espejos?,Ajustarlos antes de conducir,Ignorarlos,Moverlos durante curvas,1,La correcta regulación mejora la visibilidad.
+¿Qué indica una señal de ciclovía?,Prohibición de bicicletas,Vía destinada a ciclistas,Estacionamiento,2,Se reserva para circulación de bicicletas.
+¿Qué debe hacer al estacionar en pendiente?,Dejar marcha adecuada y asegurar vehículo,Apagar motor solamente,Dejarlo en neutro,1,Evita desplazamientos involuntarios.
+¿Qué efecto tiene el exceso de velocidad?,Reduce riesgos,Aumenta distancia de frenado,Mejora control,2,Incrementa la gravedad de los accidentes.
+¿Qué debe hacer antes de retroceder?,Mirar entorno y verificar seguridad,Acelerar primero,Tocar bocina obligatoriamente,1,Debe asegurarse de que la maniobra sea segura.
+¿Qué significa una señal de zona de trabajos?,Velocidad libre,Precaución por obras,Fin de restricciones,2,Las obras modifican condiciones normales de tránsito.
+¿Qué hacer si falla un semáforo?,Ignorar prioridades,Aplicar normas de prioridad y precaución,Acelerar para pasar,2,Se debe actuar como en un cruce regulado por señales.
+¿Qué indica una señal de paso de peatones?,Zona de cruce peatonal,Cruce ferroviario,Terminal de buses,1,Advierte presencia de peatones.
+¿Qué debe hacer en un paso bajo nivel inundado?,Intentar cruzar,Evitar el paso si existe riesgo,Acelerar al ingresar,2,Puede quedar atrapado o perder control.
+¿Qué significa una señal de curva peligrosa?,Vía recta,Curva que requiere precaución,Fin de camino,2,Debe adaptar velocidad y trayectoria.
+¿Qué debe hacer al transportar niños?,Usar sistemas de retención adecuados,Permitir viajar sin cinturón,Llevarlos adelante siempre,1,La seguridad infantil exige sistemas apropiados.
+¿Qué indica una señal de estrechamiento?,Calzada más ancha,Reducción del ancho disponible,Fin de vía,2,Debe prepararse para menor espacio.
+¿Qué hacer si el sol encandila?,Aumentar velocidad,Reducir velocidad y usar visera,Cerrar los ojos,2,Debe mantener visibilidad adecuada.
+¿Qué significa una señal de pendiente pronunciada?,Terreno plano,Descenso o ascenso importante,Curva cerrada,2,Exige ajustar velocidad y marcha.
+¿Qué debe hacer con carga en el vehículo?,Asegurarla correctamente,Dejarla suelta,Sobrecargar sin límites,1,La carga mal estibada genera riesgos.
+¿Qué indica una señal de zona escolar?,Mayor velocidad,Precaución por presencia de niños,Adelantamiento permitido,2,Se debe extremar la atención.
+¿Qué debe hacer si una rueda sale de la calzada?,Girar bruscamente,Reducir velocidad y regresar suavemente,Acelerar,2,Las maniobras bruscas pueden causar pérdida de control.
+¿Qué significa una señal de camino resbaladizo?,Mayor adherencia,Riesgo de deslizamiento,Velocidad libre,2,Debe conducir con especial cuidado.
+¿Qué debe hacer si un peatón está por cruzar?,Ignorarlo,Ceder el paso cuando corresponda,Acelerar,2,La seguridad del peatón es prioritaria.
+¿Qué indica una señal de cruce ferroviario?,Posible tren,Estacionamiento,Fin de vía,1,Advierte proximidad de vías férreas.
+¿Qué debe hacer al incorporarse a una autopista?,Adaptar velocidad y ceder según corresponda,Entrar lentamente sin observar,Detenerse en pista,1,La incorporación debe realizarse de forma segura.
+¿Qué significa una señal de fin de prohibición?,Continúa la restricción,Termina la restricción,Nueva prohibición,2,Indica el término de una limitación anterior.
+¿Qué debe hacer con el freno de estacionamiento?,Usarlo al estacionar,Ignorarlo siempre,Usarlo en movimiento,1,Ayuda a inmovilizar el vehículo.
+¿Qué indica una señal de animales en la vía?,Cruce de animales,Estación de servicio,Peaje,1,Advierte posible presencia de animales.
+¿Qué debe hacer al cruzar un puente angosto?,Reducir velocidad y observar,Acelerar,Adelantar,1,El espacio disponible es menor.
+¿Qué significa una señal de altura máxima?,Límite de altura permitida,Velocidad máxima,Ancho máximo,1,Evita colisiones con estructuras.
+¿Qué debe hacer ante un accidente sin lesionados?,Intercambiar antecedentes y actuar según normativa,Abandonar lugar,Ignorarlo,1,Existen obligaciones legales para los involucrados.
+¿Qué indica una señal de ancho máximo?,Restricción de ancho,Velocidad mínima,Peso máximo,1,Limita el ancho de los vehículos.
+¿Qué debe hacer si los frenos fallan?,Mantener calma y reducir velocidad progresivamente,Apagar luces,Acelerar,1,Debe intentar detener el vehículo de forma controlada.
+¿Qué significa una señal de peso máximo?,Restricción de carga,Curva peligrosa,Ceda el paso,1,Limita el peso autorizado.
+¿Qué debe hacer antes de conducir?,Estar en condiciones físicas adecuadas,Consumir alcohol,Usar celular,1,El conductor debe estar apto para conducir.
+¿Qué indica una señal de sentido único?,Circulación en un solo sentido,Estacionamiento,Peaje,1,Ordena el sentido de circulación.
+¿Qué debe hacer si ve una bicicleta adelantando?,Mantener distancia segura,Cerrar espacio,Acelerar,1,Debe proteger al usuario vulnerable.
+¿Qué significa una señal de fin de zona escolar?,Termina advertencia escolar,Inicio de escuela,Hospital,1,Indica el término de la zona especial.
+¿Qué debe hacer en pavimento mojado?,Aumentar distancia de seguridad,Reducir distancia,Frenar bruscamente siempre,1,La distancia de frenado aumenta.
+¿Qué indica una señal de vía sin salida?,Camino cerrado al final,Autopista,Puente,1,Advierte que la vía no tiene continuidad.
+¿Qué debe hacer si un vehículo se aproxima por detrás a gran velocidad?,Mantener conducción segura,Competir,Cerrar paso,1,Debe actuar de forma preventiva y segura.
+¿Qué significa una señal de zona de derrumbes?,Riesgo de caída de material,Peaje,Curva suave,1,Advierte un peligro específico.
+¿Qué debe hacer con las luces altas?,Usarlas sin restricción,Bajarlas al cruzarse con otros vehículos,Nunca usarlas,2,Evita encandilar a otros conductores.
